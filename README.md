@@ -1,4 +1,5 @@
 # 🕵️‍♂️ Stealth Proxy Pivot: Multi-Layered Network Evasion & C2 Infrastructure
+![Network Evasion Thumbnail](./images/THUMB.jpeg)
 
 > **⚠️ Disclaimer:** This project and its documentation are strictly for educational purposes, authorized security research, and defensive engineering (Blue Teaming) to understand advanced evasion tactics.
 
